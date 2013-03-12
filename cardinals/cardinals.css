@@ -1,0 +1,35 @@
+.title{
+	color: #555;
+	font-size: 16px;
+	font-family: sans-serif;
+	font-weight: bold;
+	padding: 20px;
+	width: 900px;
+	background: aliceblue;
+	border-radius:3px;
+}
+
+
+.background{
+	padding-top:20px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	background:	url( 'images/noise.gif' );
+}
+
+.mapcontainer{
+	height: 600px;
+
+	padding: 2px;
+	border-radius: 5px;
+	min-width: 120px;
+background: #ffffff;
+padding: 20px;
+box-shadow: 0 1px 3px rgba(34, 25, 25, 0.4);
+}
+
+.cardinalmap{
+	width:100%; 
+	height:600px;
+}
