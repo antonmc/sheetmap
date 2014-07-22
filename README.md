@@ -9,4 +9,4 @@ In this case it was to plot the cardinals of the conclave on to a map, but you c
 
 You can see a working version of it here: http://goo.gl/o2bsy where there are links to other apis
 
-And you can read my blog entry here: 
+And you can read my blog entry here: where!?
